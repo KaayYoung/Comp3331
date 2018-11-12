@@ -12,5 +12,5 @@ Main Topics:
 7. A day in the life of a web request 
 8. Network Security
 
-Labs are based on the topic in each week
+Labs are based on the topic in each week                            
 Assignment is reliable transport protocol over the UDP protocol
